@@ -1,2 +1,2 @@
 # bio22.github.io
-a website about metabolism in biochemistry
+BIO22 is a website about metabolism in biochemistry
