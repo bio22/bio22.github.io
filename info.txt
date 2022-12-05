@@ -1,25 +1,6 @@
-综合作业信息
-
-一、小组成员及学号
-沈钦杭：2021030004
-万振南：2021030014
-李嘉恒：2021030024
-连奕铭：2021030035
-
-二、小组成员分工
-沈钦杭：总述（home），氨基酸（amino acid）；
-李嘉恒：糖（carbohydrate）；
-万振南：脂质（lipid），网站制作（https://bio22.github.io/）；
-连奕铭：核苷酸（nucleotide）；
-
-三、独特创新之处
-
-
-四、解释说明
-
 Information of Comprehensive Homework
 
-1、 Group members and student numbers
+1). The name and ID of every member of your team
 
 Shen Qinhang: 2021030004
 
@@ -29,22 +10,30 @@ Li Jiaheng: 2021030024
 
 Lian Yiming: 2021030035
 
-2、 Division of work among team members
+2). Contribution of every member to the homework 
 
 Shen Qinhang: home, amino acid;
 
 Li Jiaheng: carbohydrate;
 
-Wan Zhennan: Lipid, website production（ https://bio22.github.io/ ）；
+Wan Zhennan: Lipid, website: https://bio22.github.io/;
 
 Lian Yiming: nucleotides;
 
-3、 Unique innovation
+3) Your unique and innovative way of building the network
 
+Our metabolic network takes glucose metabolism as the main line, connecting various metabolic pathways through key intermediates. 
 
+In order to make the overall metabolic network clear and beautiful, we divide all metabolic pathways into four categories: carbohydrate, lipid, protein and nucleic acid, and express them with their characteristic substances. 
 
-4、 Explanation
+For some important intermediates, we use one-way or two-way arrows to indicate the direction of the substance and its connection with other metabolic pathways. 
 
-Information of Comprehensive Homework
+Our work has well integrated a series of biochemical reactions involved in this course, and clarified the internal close relationship between various biological macromolecules through carding.
 
+4) Explanations which might help us to understand your network
 
+1. Visit the website: https://bio22.github.io/;
+
+2. Click on what you want to know;
+
+3. View the corresponding content.
